@@ -1,3 +1,0 @@
-user-agent: *
-Disallow: 
-Sitemap: https://www.grupulplictiselii.cf/sitemap.xml
