@@ -1,0 +1,34 @@
+.link_purple
+{
+  color: purple;
+}
+
+.link_aqua
+{
+  color: aqua;
+}
+
+.link_lightseagreen
+{
+  color: lightseagreen;
+}
+
+.link_blue
+{
+  color: blue;
+}
+
+a
+{
+   text-decoration: none;
+}
+
+a:hover
+{
+  color: white;
+}
+
+.links
+{
+  text-align: center;
+}
